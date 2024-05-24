@@ -9,6 +9,22 @@
 
 - 📫 How to reach me **jobs.aniketk@gmail.com**
 
+<p>"  "</p> 
+
+<h3 align="center">Overview</h3>
+
+This project involves creating and managing a Human Resources (HR) database using SQL. The database is designed to store and handle information related to employees, departments, job roles, and salaries. The goal is to provide a robust and efficient way to manage HR-related data, ensuring data integrity and facilitating easy retrieval of information through various SQL queries.
+
+<h3 align="center">Features</h3>
+
+Employee Management: Store and manage employee details such as name, contact information, job role, department, and salary.
+Department Management: Maintain information about different departments within the organization.
+Job Role Management: Keep track of various job roles and their associated details.
+Salary Management: Handle employee salary information and ensure accurate record-keeping.
+Data Integrity: Implement constraints and validations to ensure the consistency and accuracy of data.
+Query Optimization: Optimize SQL queries for efficient data retrieval and manipulation.
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/theaniketkumbhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theaniketkumbhar" height="30" width="40" /></a>
