@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jobs.aniketk@gmail.com**
 
-<p>"  "</p> 
+<br>
 
 <h3 align="center">Overview</h3>
 
