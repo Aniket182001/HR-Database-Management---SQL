@@ -17,12 +17,12 @@ This project involves creating and managing a Human Resources (HR) database usin
 
 <h3 align="center">Features</h3>
 
-Employee Management: Store and manage employee details such as name, contact information, job role, department, and salary.
-Department Management: Maintain information about different departments within the organization.
-Job Role Management: Keep track of various job roles and their associated details.
-Salary Management: Handle employee salary information and ensure accurate record-keeping.
-Data Integrity: Implement constraints and validations to ensure the consistency and accuracy of data.
-Query Optimization: Optimize SQL queries for efficient data retrieval and manipulation.
+<p>Employee Management: Store and manage employee details such as name, contact information, job role, department, and salary.</p>
+<p>Department Management: Maintain information about different departments within the organization.</p>
+<p>Job Role Management: Keep track of various job roles and their associated details.</p>
+<p>Salary Management: Handle employee salary information and ensure accurate record-keeping.</p>
+<p>Data Integrity: Implement constraints and validations to ensure the consistency and accuracy of data.</p>
+<p>Query Optimization: Optimize SQL queries for efficient data retrieval and manipulation.</p>
 
 
 <h3 align="left">Connect with me:</h3>
